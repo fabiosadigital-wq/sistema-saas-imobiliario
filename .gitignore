@@ -1,0 +1,7 @@
+/vendor/
+!vendor/.keep
+/storage/*
+!/storage/.gitkeep
+.phpunit.cache/
+/.phpunit.result.cache
+.DS_Store
